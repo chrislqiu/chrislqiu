@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris
-- 💻 I'm currently attending Purdue for Computer Science!
+- 💻 I'm a senior at Purdue University studying Computer Science.
 - 📫 You can reach me through my email at chris.qiu52@gmail.com
 
 <!---
